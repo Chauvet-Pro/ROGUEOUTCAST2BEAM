@@ -1,4 +1,4 @@
-# ROGUEOUTCAST2BEAM
+# Rogue Outcast 2 Beam
 
 ## Software Versions
 
