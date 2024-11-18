@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V1.240903 - Rogue Outcast 2 Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST2BEAM/blob/d655d568f285867ed2c7032c2ec47104ce91d757/firmware/V1.240903.zip)
+[V1.240829 - Rogue Outcast 2 Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST2BEAM/blob/38842cc760d919542d3f67fcafd1c17783b54f7c/firmware/V1.240829.zip)
 - Added auto screen reverse
 
 [V1.240401 - Rogue Outcast 2 Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST2BEAM/blob/530941d3f23e52bb6cc65320bd884280c96d0d9a/firmware/V1.240401.zip)
