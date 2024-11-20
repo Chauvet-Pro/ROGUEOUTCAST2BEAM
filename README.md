@@ -27,7 +27,7 @@
 4.	The ***"USB Update*** screen will re-appear. Press **< YES >**.
 5.	The upgrade will start. DO NOT turn off the power or disconnect the USB while the USB LED is still blinking during the process. The screen display will read: ***"USB Update Wait"***. USB update can take several minutes to complete.
     > When the USB stops blinking, all the motors will power down, and the display will go blank. DO NOT turn off the power. The fixture will automatically reboot when the update is done.
-6.  Go to **Sys Info** on the fixture's menu map and confirm the firmware revision.
+6.  Go to the Fixture Information on the fixture's menu map and confirm the firmware revision.
 7.	When the boot-up process is finished, restart the fixture.
 
 
