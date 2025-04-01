@@ -2,12 +2,15 @@
 
 ## Software Versions
 
+[V1.241125 - Rogue Outcast 2 Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST2BEAM/blob/bbfe80a4e1e5f0bea7c5c67eb7e5ede001e58439/firmware/V1.241125.zip)
+- Add 2 steps standalone program
+
 [V1.240829 - Rogue Outcast 2 Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST2BEAM/blob/38842cc760d919542d3f67fcafd1c17783b54f7c/firmware/V1.240829.zip)
 - Added auto screen reverse
 
 [V1.240401 - Rogue Outcast 2 Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST2BEAM/blob/530941d3f23e52bb6cc65320bd884280c96d0d9a/firmware/V1.240401.zip)
 - Fixed static gobo wheel issue
-     * Issue: Static gobo wheel will lose steps if reset is required from the console while the wheel is doing color scroll.
+     * Issue: Static gobo wheel will lose steps if reset is required from the console while the wheel is doing a color scroll.
 
 [V1.230803 - Rogue Outcast 2 Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST2BEAM/blob/530941d3f23e52bb6cc65320bd884280c96d0d9a/firmware/V1.230803.zip)
 - Improved shutter effect
